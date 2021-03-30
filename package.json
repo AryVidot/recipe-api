@@ -1,0 +1,27 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "Recipe API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryVidot/recipe-api.git"
+  },
+  "keywords": [
+    "recipes",
+    "API"
+  ],
+  "author": "Ary Vidot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AryVidot/recipe-api/issues"
+  },
+  "homepage": "https://github.com/AryVidot/recipe-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
